@@ -11,7 +11,7 @@
 
 **🧪 Test**: All of the answers have been checked through the Exercise Check Tool provided by the book. 
 
-<h3 align="left">⚗️ Useful links for the book:</h3>
+<h3 align="center">⚗️ Useful links for the book:</h3>
 
 - <a href="http://liveexample.pearsoncmg.com/liang/intro10e">10th Edition Companion Website</a>
 - <a href="https://liveexample.pearsoncmg.com/CheckExercise/faces/CheckExercise.xhtml?chapter=1&programName=Exercise01_01">Exercise Check Tool</a>
