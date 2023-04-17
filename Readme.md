@@ -23,6 +23,6 @@
 
 
 ## License & copyright
-Licensed under the [MIT License](LICENSE.txt).
+© Licensed under the [MIT License](LICENSE.md).
 
 
