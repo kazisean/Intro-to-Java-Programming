@@ -2,7 +2,7 @@
 
 <p align="center"><img src="./github.png" width="80%"/></p>
 <p align="center">
-<a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a><a href="#"><img src="https://img.shields.io/badge/Contribution-welcome-brightgreen.svg" alt="Contribution Welcome"></a>
+<a href="#license"><img src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000"></a><a href="#"> <img src="https://img.shields.io/badge/Contribution-welcome-brightgreen.svg" alt="Contribution Welcome"></a>
 </p>
 
 <h2 align="center">🃏 Introduction to Java Programming Solutions</h2>
