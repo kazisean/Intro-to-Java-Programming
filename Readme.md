@@ -9,7 +9,7 @@
 
 **👩🏻‍💻 Repo Description**: Solutions to the programming exercises in <a href="https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312">Introduction to Java Programming, Comprehensive Version (10th Edition)</a> By Y. Daniel Liang </a>
 
-**🧪**: All of the answers have been checked through the Exercise Check Tool provided by the book. 
+**🧪 Test**: All of the answers have been checked through the Exercise Check Tool provided by the book. 
 
 ### **Companion Content:**
 - ### <a href="http://liveexample.pearsoncmg.com/liang/intro10e">10th Edition Companion Website</a>
