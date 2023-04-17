@@ -7,9 +7,7 @@
 
 <h2 align="center">🃏 Introduction to Java Programming Solutions</h2>
 
-**👩🏻‍💻 Repo Description**: Solutions to the programming exercises in <a href="https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312">Introduction to Java Programming, Comprehensive Version (10th Edition)</a> By Y. Daniel Liang </a>
-
-**🧪 Test**: All of the answers have been checked through the Exercise Check Tool provided by the book. 
+Solutions to the programming exercises in <a href="https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312">Introduction to Java Programming, Comprehensive Version (10th Edition)</a> By Y. Daniel Liang </a> All of the answers have been checked through the Exercise Check Tool provided by the book. 
 
 <h2 align="center">⚗️ Useful links for the book:</h2>
 
