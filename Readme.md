@@ -7,7 +7,8 @@
 
 <h2 align="center">🃏 Introduction to Java Programming Solutions</h2>
 
-**👩🏻‍💻 Repo Description**: My Solutions to the programming exercises in <a href="https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312">Introduction to Java Programming, Comprehensive Version (10th Edition)</a> By <a href="https://yongdanielliang.github.io/">Y. Daniel Liang</a>
+**👩🏻‍💻 Repo Description**: My Solutions to the programming exercises in <a href="https://www.amazon.com/Intro-Java-Programming-Comprehensive-Version/dp/0133761312">Introduction to Java Programming, Comprehensive Version (10th Edition)</a> By Y. Daniel Liang </a>
+
 **🧪**: All of the answers have been  
 
 
