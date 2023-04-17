@@ -17,7 +17,6 @@ Solutions to the programming exercises in <a href="https://www.amazon.com/Intro-
 - <a href='#checkpoint-answers'>Checkpoint Answers</a>
 - <a href="https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_10/ExampleByChapters.html">Example Programs By Chapter</a>
 - <a href="http://liveexample.pearsoncmg.com/liang/animation/animation.html">Algorithm Animations</a>
-- <a href="https://media.pearsoncmg.com/ph/esm/ecs_liang_ijp_10/supplement/Supplement1dcodingguidelines.html">Java Coding Style Guidelines</a>
 
 
 
