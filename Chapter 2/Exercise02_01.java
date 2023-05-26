@@ -19,6 +19,6 @@ public class Exercise02_01{
 
         System.out.println(usr_input + "  Celsius is " + output + " Fahrenheit");
 
-
+        
     }
 }
