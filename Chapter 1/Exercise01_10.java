@@ -5,12 +5,8 @@
 
 public class Exercise01_10 {
     public static void main (String [] args){
-
-
         System.out.println(
-
             "The average speed in miles per hour is " + (14/1.6) / 45.5 * 60
-
         );
     }
 }
