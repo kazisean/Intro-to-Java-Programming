@@ -10,17 +10,26 @@
 import java.util.*;
 
 public class Exercise02_07 {
-    public static void main(Srting[] args) {
+    public static void main(String [] args) {
+
+	// declaration 
+	Scanner kb = new Scanner (System.in);
+
 	// user inputs
-	String usrNum;
+	int usrNum;
 
 	// asking user for the number 
-	System.out.println("Enter the number of minutes: ");
-	usrNum = nextLine();
+	System.out.print("Enter the number of minutes: ");
+	usrNum = kb.nextInt();
 	
-	// calculations
-	int oneDay = 1440;
 	
+	double totalHours = usrNum / 60.0;
+	double totalDays = totalHours / 24.0;
+	double totalYears = totalDays / 365.0;
+	double finalDays = totalDays - (int)totalYears * 365;
+
+	System.out.println(usrNum + " minutes is approximately " + (int)totalYears + " years and " + (int)finalDays + " days");
+
 
 	
     }
